@@ -28,15 +28,15 @@ One approach would be to go to a conference with lots of free and open source so
 Another approach is to:
 
 1. Come up with a set of questions and answers that allows people build up a picture of the diversity of free and open source projects
-2. Provide an simple method for people from projects to answer the questions
-3. Create a tool to analyse the similarities (maybe using some machine learning?) and visualise them in some pleasing form
+2. Provide an simple method for people from projects to answer these questions
+3. Create a tool to analyse the similarities (maybe with some machine learning?) and visualise them in some pleasing form
 4. Get some pilot data in
 5. Iterate 1 to 3 based on feedback to ensure utility, usability, etc.
 6. Publicise more widely and collect more data
 
 # The questions
 
-Here's a rough list of topics / questions to ask. Please submit issues / PRs with more questions.
+Here's a rough list of topics / questions to ask. Please submit PRs or create issues with more questions.
  
 * Our software is licensed under [pick one or more licenses]
 * We were founded in [year]
@@ -73,6 +73,20 @@ It might make sense to create a high level categorisation of these questions whi
 Some tools that might be useful for autogenerating a survey from a json definition.
 
 * https://github.com/mozilla-services/react-jsonschema-form
+
+Principle component ana
+
+# Random thoughts and notes
+
+*...  that might useful developing this idea*
+
+Look into principle component analysis
+
+Take the https://www.coursera.org/learn/machine-learning course
+
+Look into SciPy, python notebook and Jupyter
+
+Supervised vs. unsupervised learning
 
 # Feedback
 
