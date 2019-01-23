@@ -57,6 +57,10 @@ Here's a rough list of topics / questions to ask. Please submit PRs or create is
 * The project is aimed at other developers who want to build things / The project is aimed at end users
 * We are a general use project / We target a specific sector, e.g. medical, education, finance, non profit
 * We are  application, a library, an OS
+* The software is used by people who highly value privacy and decentralised power; politically FOSS people. (Freedom not beer)
+* The software fills a gap left by poor quality proprietary products.
+* The project admins are friendly and welcoming to people reporting issues, submitting PRs.
+* The project is well marketed.
 
 It might make sense to create a high level categorisation of these questions which can be used as a a filter when looking for similar projects, e.g. I want to see projects that are similar in terms of legal structure, size, audience, etc.
 
